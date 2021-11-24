@@ -1,15 +1,9 @@
-The Courses
+The Testing
 ==============================
 
+## TESTING JUNIT/MOCKITO -> **[TESTING-MODULES](https://github.com/eugenp/tutorials/tree/master/testing-modules)**
 
-Here's the new "Learn Spring" course: <br/>
-**[>> LEARN SPRING - THE MASTER CLASS](https://www.baeldung.com/learn-spring-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=ls#master-class)**
 
-Here's the Master Class of "REST With Spring" (along with the new announced Boot 2 material): <br/>
-**[>> THE REST WITH SPRING - MASTER CLASS](https://www.baeldung.com/rest-with-spring-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=rws#master-class)**
-
-And here's the Master Class of "Learn Spring Security": <br/>
-**[>> LEARN SPRING SECURITY - MASTER CLASS](https://www.baeldung.com/learn-spring-security-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=lss#master-class)**
 
 
 
